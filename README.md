@@ -1,12 +1,16 @@
 #Información general de este repositorio 
+
 Alumno: Luis Eduardo Reynoso Rodriguez
+
 Matricula: 7306264
+
 Carrera: Ingeniería Industrial
+git 
 Tecmilenio Campus Querétaro
 
 #Fundamentos de programación 
 
-Este archivo va a contener la descripción de la estructura de la materia FUNDAMENTOS DE PROHGRAMACIÓN 
+Este archivo va a contener la descripción de la estructura de la materia FUNDAMENTOS DE PROGRAMACIÓN 
 
 Semana 1:
 *Actividad en clase 
