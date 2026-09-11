@@ -34,3 +34,10 @@ Semana 3:
 *Ejercicios en clase 
 -Extras semana 3
 -Semana 3
+
+Semana 4:
+*Actividad en clase 
+-Semana 4
+*Entregables 
+-Extras semana 4
+-Tabla pitagoras
