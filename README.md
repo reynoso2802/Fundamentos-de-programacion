@@ -13,31 +13,48 @@ Tecmilenio Campus Querétaro
 Este archivo va a contener la descripción de la estructura de la materia FUNDAMENTOS DE PROGRAMACIÓN 
 
 Semana 1:
+
 *Actividad en clase 
 -Semana 1
+
 *Entregables
 -Actividad 1 
 -Extras semana 1
 
 Semana 2:
+
 *Actividad en clase
 -Semana 2
+
 *Entregables
 -Cobro de entradas a Museo
 -Extras semana 2
 
 Semana 3:
+
 *Avance de proyecto 
 -Prototipo inicial 
 -Diagrama de flujo 
 -Reporte de avance 
+
 *Ejercicios en clase 
 -Extras semana 3
 -Semana 3
 
 Semana 4:
+
 *Actividad en clase 
 -Semana 4
+
 *Entregables 
 -Extras semana 4
 -Tabla pitagoras
+
+Semana 5:
+
+*Actvidad en clase 
+-Semana 5
+
+*Entregables 
+-Extras Semana 5 
+-Menú modular 
