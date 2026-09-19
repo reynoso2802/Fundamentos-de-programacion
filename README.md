@@ -58,3 +58,10 @@ Semana 5:
 *Entregables 
 -Extras Semana 5 
 -Menú modular 
+
+Semana 6:
+
+*Entregables
+-Calificación test final 
+-Certificado Python essentials
+-Entregable semana 6
