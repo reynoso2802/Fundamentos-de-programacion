@@ -65,3 +65,25 @@ Semana 6:
 -Calificación test final 
 -Certificado Python essentials
 -Entregable semana 6
+
+Semana 7:
+
+*Actividad en clase 
+-Articulo
+-Bitacora
+-Datos_usuario
+-Frutas
+-LCQSACLD
+-Nombres
+-Numeros
+-Saludo
+-Semana 7
+
+*Proyecto final 
+-Chevrolet Suburban
+-Diagrama final
+-Historial general
+-Mazda 3
+-Proyecto final
+-Reporte final
+-Toyota hilux 
