@@ -1,0 +1,4 @@
+Python es facil 
+Java es dificil
+Python es poderoso 
+Python se ejecuta en la mac 
