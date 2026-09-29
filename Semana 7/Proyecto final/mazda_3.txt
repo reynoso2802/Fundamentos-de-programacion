@@ -1,2 +1,3 @@
 Fecha: 23/9/2026 | Usuario: Eduardo | Vehiculo: mazda 3 | Km: 10000 | Servicio: Mantenimiento menor | Costo: $3050
 Fecha: 23/9/2026 | Usuario: Eduardo | Se hace cambio de 4 llantas al vehiculo
+Fecha: 23/9/2026 | Usuario: Eduardo | Cambio de 4 llantas por $6,000 mxn
